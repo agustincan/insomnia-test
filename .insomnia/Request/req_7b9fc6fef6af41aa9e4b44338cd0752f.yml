@@ -1,0 +1,36 @@
+_id: req_7b9fc6fef6af41aa9e4b44338cd0752f
+type: Request
+parentId: fld_be2f6e19c1f34fedb42d69d8f4b6dec4
+modified: 1659553496245
+created: 1659549331837
+url: http://localhost:5046/client
+name: Insert
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"names": "Pedro",
+    	"lastnames": "dot 2",
+    	"birthdate": "2012-04-25T00:00:00",
+    	"cuit": "2022222222",
+    	"address": "Direccion 22",
+    	"celularPhone": "125-325696 6666",
+    	"email": "test@test.com"
+    	
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_541c02e5e76744c6b060b68012f197ab
+authentication: {}
+metaSortKey: -1659549331837
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
