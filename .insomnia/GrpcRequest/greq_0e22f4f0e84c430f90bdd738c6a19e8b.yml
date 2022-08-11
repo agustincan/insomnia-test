@@ -1,0 +1,18 @@
+_id: greq_0e22f4f0e84c430f90bdd738c6a19e8b
+type: GrpcRequest
+parentId: fld_cfa8d6fe443b4aba8ec0153c49b807c1
+modified: 1655132902282
+created: 1655131505778
+url: grpcs://grpcb.in:7258
+name: test grpc
+description: ""
+protoFileId: pf_17d3e86738e44e4e9eda334fcb484d3e
+protoMethodName: /greet.Greeter/SayHello
+metadata: []
+body:
+  text: |-
+    {
+    	"name": "pepe"
+    }
+metaSortKey: -1655131505778
+isPrivate: false
