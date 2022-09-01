@@ -1,9 +1,9 @@
 _id: req_82c0074f583940419b9295a30949d7c4
 type: Request
 parentId: fld_d62874f57721495bb1fa84e1e7b14e53
-modified: 1656101833626
+modified: 1660591351241
 created: 1656100287507
-url: http://localhost:5154/api/transport/11
+url: http://localhost:5154/api/transport
 name: Get
 description: ""
 method: GET
